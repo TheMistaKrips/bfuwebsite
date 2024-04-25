@@ -29,7 +29,7 @@ export default function Zigzag() {
           <div className="grid gap-20">
 
             {/* 1st item */}
-            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center" data-aos="fade-up">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={khudenko} width={540} height={405} alt="Features 01" />
@@ -44,7 +44,7 @@ export default function Zigzag() {
             </div>
 
             {/* 2nd item */}
-            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center" data-aos="fade-up">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={urow} width={540} height={405} alt="Features 02" />
@@ -59,7 +59,7 @@ export default function Zigzag() {
             </div>
 
             {/* 3rd item */}
-            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center" data-aos="fade-up">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={savkin} width={540} height={405} alt="Features 01" />
@@ -74,7 +74,7 @@ export default function Zigzag() {
             </div>
 
             {/* 2nd item */}
-            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center" data-aos="fade-up">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={shpilev} width={540} height={405} alt="Features 02" />
@@ -89,7 +89,7 @@ export default function Zigzag() {
             </div>
 
             {/* 3rd item */}
-            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center" data-aos="fade-up">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={veres} width={540} height={405} alt="Features 01" />
@@ -104,7 +104,7 @@ export default function Zigzag() {
             </div>
 
             {/* 2nd item */}
-            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center" data-aos="fade-up">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={tarach} width={540} height={405} alt="Features 02" />
@@ -119,7 +119,7 @@ export default function Zigzag() {
             </div>
             
             {/* 3rd item */}
-            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center" data-aos="fade-up">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={lena} width={540} height={405} alt="Features 01" />
@@ -134,7 +134,7 @@ export default function Zigzag() {
             </div>
 
             {/* 2nd item */}
-            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center" data-aos="fade-up">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={ulya} width={540} height={405} alt="Features 02" />
@@ -149,7 +149,7 @@ export default function Zigzag() {
             </div>
 
             {/* 3rd item */}
-            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center" data-aos="fade-up">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={pershin} width={540} height={405} alt="Features 01" />
@@ -164,7 +164,7 @@ export default function Zigzag() {
             </div>
 
             {/* 2nd item */}
-            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center" data-aos="fade-up">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={makl} width={540} height={405} alt="Features 02" />
@@ -179,7 +179,7 @@ export default function Zigzag() {
             </div>
 
             {/* 3rd item */}
-            <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
+            <div className="md:grid md:grid-cols-12 md:gap-6 items-center" data-aos="fade-up">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 md:order-1" data-aos="fade-up">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={vanya} width={540} height={405} alt="Features 01" />
