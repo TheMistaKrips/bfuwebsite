@@ -157,7 +157,7 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <h3 className="h3 mb-3">Обложка Першина</h3>
+                  <h3 className="h3 mb-3">Обложка Андрея</h3>
                   <p className="text-xl text-gray-400 mb-4">Первые плакаты этого исполнителя были замечены ещё в средневековье. Тысячи человек, прослушавших его песни, утверждают, что в них заложен тайный смысл, который они, к сожалению, уловить не могут</p>
                 </div>
               </div>
